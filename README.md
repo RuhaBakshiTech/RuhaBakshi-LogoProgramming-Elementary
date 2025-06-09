@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Ruha Bakshi, currently an elementary student studying at Challenger School, Austin.
-- 👀 I’m interested in Technology especially in Robotics, Mathematics, Art, and instrument as Piano. 
-- 🌱 I’m currently learning Terrapin Logo, Block coding for Lego EV3, Vex Robotics coding.
-- 💞️ I’m looking to collaborate on a project with my friends on future Vex Robotics competitions.
-- 📫 You can reach me on my email bakshiruha@gmail.com
-- ⚡ Fun fact: Even though I am born in Seattle, I always get cold, I really can't tolearte cold. I wear a sweater in Austin summer. 
+This is all my Logo Programming code which I have written in Elementary School at Challenger School, Austin, texas.
+1. The code includes many projects which learns about various Logo Commands: RT, LT, IF, REPEAT, FD, BK, STAMP, PU, PD, and PE
+2. Themed Projects: Spacecraft - Grade01, Landscape theme (Austin Downtown) - Grade03, Monument (Hagia Sophia) - Grade 04
+3. Won awards for Spacecraft and Monument at school. 
 
 <!---
 RuhaBakshiTech/RuhaBakshiTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
